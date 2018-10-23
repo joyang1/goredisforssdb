@@ -1,0 +1,9 @@
+.DS_Store
+/vendor
+.vscode
+debug
+rubens
+/build
+qian.log
+*.test
+*.exe
